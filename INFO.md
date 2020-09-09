@@ -12,7 +12,7 @@ For particle IDs
 ##### CA_4.ipynb
 GAN Implementation (for pions only)
 
-###### CA_7.ipynb
+##### CA_7.ipynb
 WGAN Implementation.
 
 ##### CA_10.ipynb
